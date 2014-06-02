@@ -1,6 +1,10 @@
 *.class
 *.pyc
 *.pyo
+<<<<<<< HEAD
 *.class
 *.pyc
 *.pyo
+=======
+>>>>>>> 28ab44cd2cb1995907a1b3a87322a5128c6662d6
+

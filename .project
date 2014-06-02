@@ -10,6 +10,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>com.quest.toadext.editors.project.ToadextProjectBuilder</name>
 			<arguments>
@@ -19,6 +20,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 		<nature>com.quest.toadext.ToadextNature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+>>>>>>> 28ab44cd2cb1995907a1b3a87322a5128c6662d6
 		<nature>org.python.pydev.django.djangoNature</nature>
 	</natures>
 </projectDescription>
