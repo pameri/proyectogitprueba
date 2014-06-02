@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Projects
+ 0 "1&project_senda2&appmain.pbl";
+@end;
+appname "appmain";
+applib "appmain.pbl";
+LibList "appmain.pbl;..\\HR\\PLA\\placst.pbl;..\\HR\\PLA\\pladw.pbl;..\\HR\\PLA\\pladwrtps.pbl;..\\HR\\PLA\\plafunc.pbl;..\\HR\\PLA\\plawin.pbl;syscontrols.pbl;sysobjects.pbl;sysbutton.pbl;syscst.pbl;syswin.pbl;sysdw.pbl;sysfunc.pbl;sysmenu.pbl;sysrep.pbl;excelpb125.pbd;..\\CONF\\confwin.pbl;..\\CONF\\confdw.pbl;..\\CONF\\conffunc.pbl;..\\CONF\\confmenu.pbl;..\\CONF\\confcst.pbl;..\\CONF\\confstv.pbl;..\\ADM\\admwin.pbl;..\\ADM\\admdw.pbl;..\\ADM\\admfunc.pbl;..\\ADM\\admcst.pbl;..\\VTA\\vtadw.pbl;..\\VTA\\vtafunc.pbl;..\\VTA\\vtaucst.pbl;..\\VTA\\vtawin.pbl;..\\LOG\\ALM\\almcst.pbl;..\\LOG\\ALM\\almdw.pbl;..\\LOG\\ALM\\almfunc.pbl;..\\LOG\\ALM\\almwin.pbl;..\\LOG\\COM\\comcst.pbl;..\\LOG\\COM\\comdw.pbl;..\\LOG\\COM\\comfunc.pbl;..\\LOG\\COM\\comwin.pbl;..\\LOG\\IMP\\impocst.pbl;..\\LOG\\IMP\\impodw.pbl;..\\LOG\\IMP\\impofunc.pbl;..\\LOG\\IMP\\impowin.pbl;..\\FI\\CTACOBRAR\\ctacst.pbl;..\\FI\\CTACOBRAR\\ctadw.pbl;..\\FI\\CTACOBRAR\\ctafunc.pbl;..\\FI\\CTACOBRAR\\ctawin.pbl;..\\FI\\CTAPAGAR\\ctapagarcst.pbl;..\\FI\\CTAPAGAR\\ctapagardw.pbl;..\\FI\\CTAPAGAR\\ctapagarfunc.pbl;..\\FI\\CTAPAGAR\\ctapagarwin.pbl;..\\FI\\CO\\cocst.pbl;..\\FI\\CO\\codw.pbl;..\\FI\\CO\\cofunc.pbl;..\\FI\\CO\\cowin.pbl;..\\FI\\TS\\tsdw.pbl;..\\FI\\TS\\tswin.pbl;..\\FI\\TS\\tscst.pbl;..\\FI\\TS\\tsfunc.pbl;..\\LOG\\CAB\\cabcst.pbl;..\\LOG\\CAB\\cabdw.pbl;..\\LOG\\CAB\\cabfunc.pbl;..\\LOG\\CAB\\cabwin.pbl;..\\PRO\\procst.pbl;..\\PRO\\prodw.pbl;..\\PRO\\profunc.pbl;..\\PRO\\prowin.pbl";
+type "pb";
