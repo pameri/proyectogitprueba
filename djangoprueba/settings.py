@@ -3,12 +3,10 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 
-<<<<<<< HEAD
-=======
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
 
->>>>>>> 28ab44cd2cb1995907a1b3a87322a5128c6662d6
+
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'zr03&wb1l(2!d94+52q3-sml8!2p*1mqg7%fxukbb+3*&)!lfg'
 
@@ -43,11 +41,10 @@ MIDDLEWARE_CLASSES = (
 ROOT_URLCONF = 'djangoprueba.urls'
 
 WSGI_APPLICATION = 'djangoprueba.wsgi.application'
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 28ab44cd2cb1995907a1b3a87322a5128c6662d6
+
+
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 
@@ -72,10 +69,8 @@ USE_L10N = True
 USE_TZ = True
 
 
-<<<<<<< HEAD
-=======
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
->>>>>>> 28ab44cd2cb1995907a1b3a87322a5128c6662d6
+
 STATIC_URL = '/static/'
